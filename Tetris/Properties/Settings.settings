@@ -1,0 +1,63 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Tetris.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Grid_Colour" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">25, 25, 25</Value>
+    </Setting>
+    <Setting Name="Bottom_Of_Play_Area" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">20</Value>
+    </Setting>
+    <Setting Name="Right_Of_Play_Area" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">9</Value>
+    </Setting>
+    <Setting Name="Left_Of_Play_Area" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="Top_Of_Play_Area" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">19</Value>
+    </Setting>
+    <Setting Name="Number_Of_Columns" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">10</Value>
+    </Setting>
+    <Setting Name="Number_Of_Rows" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">20</Value>
+    </Setting>
+    <Setting Name="Cell_Width" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">27</Value>
+    </Setting>
+    <Setting Name="Cell_Height" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">27</Value>
+    </Setting>
+    <Setting Name="Left_Grid_Margin" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">150</Value>
+    </Setting>
+    <Setting Name="Top_Grid_Margin" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">22</Value>
+    </Setting>
+    <Setting Name="Line_Clear_Color" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">White</Value>
+    </Setting>
+    <Setting Name="Game_Starting_Timer_Interval" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">1000</Value>
+    </Setting>
+    <Setting Name="Number_Of_Lines_Needed_To_Level_Up" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">10</Value>
+    </Setting>
+    <Setting Name="Level_Up_Timer_Decrease" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">67</Value>
+    </Setting>
+    <Setting Name="Winning_Level" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">15</Value>
+    </Setting>
+    <Setting Name="HighScores_FilePath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">highScores.xml</Value>
+    </Setting>
+    <Setting Name="Losing_Game_Text" Type="System.String" Scope="User">
+      <Value Profile="(Default)">You made a new High Score!!!!!!!</Value>
+    </Setting>
+    <Setting Name="Winning_Game_Text" Type="System.String" Scope="User">
+      <Value Profile="(Default)">You didn't make the High Scores</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
